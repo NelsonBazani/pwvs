@@ -1,0 +1,235 @@
+/* Página Principal */
+.Bodyprincipal {
+	background-image: url(Dev.jpg);
+}
+
+.HeaderPrincipal {
+	background: #0A122A;
+}
+
+#quebra {
+	padding: 5px 25px;
+}
+
+#sub {
+	color: white;
+	font-family: Calibri;
+}
+
+
+.Divprincipal {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+.classe1 {
+	background: black;
+	width: 400px;
+	margin-left: 50px; 
+	margin-top: 40px;
+}
+
+.cl1 {
+	margin: 15px;
+	color: white;
+}
+
+.imgpoo {
+	width: 100%;
+}
+.cl2{
+}
+
+.cl3{
+margin: 10px;
+padding-bottom: 5px;
+}
+
+.botao {
+	background: white;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+/* ------------------------------------------*/
+
+
+/* Página FPOO */
+.Bodyfpoo {
+	background-image: url(BodyFpoo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+
+.HeaderFpoo {
+}
+
+.Ae {
+	margin: 25px;
+}
+
+#listas1 {
+	margin-left: 60px;
+	margin-right: 250px;
+	border: solid 1px;
+	padding: 5px;
+}
+
+.pro {
+	margin: 40px;
+	border: solid 1px white;
+	padding: 2px 2px 5px;
+}
+
+.cl4 {
+margin: 20px;
+padding-bottom: 5px;
+}
+/*-------------------------------------------*/
+
+
+/* Página HARE */
+.BodyHare {
+	background-image: url(BodyHare.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.HeaderHare {
+	background: #2E9AFE;
+}
+
+#listas2 {
+	margin-left: 60px;
+	margin-right: 250px;
+	border: solid 1px;
+	padding: 5px;
+}
+
+.hr {
+	background: #0174DF;
+	margin: 40px;
+	border: solid 1px white;
+	padding: 2px 2px 5px;
+}
+
+.cl5 {
+margin: 2px;
+padding-bottom: 5px;
+
+}
+
+.botaoh {
+	background: white;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+/* ------------------------------------------*/
+
+
+/* Página LIMA */
+.BodyLima {
+	background-image: url(BodyLima.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: scroll;
+}
+
+#listas3 {
+	margin-left: 60px;
+	margin-right: 250px;
+	border: solid 1px;
+	padding: 5px;
+}
+
+.Au {
+	margin: 25px;
+}
+
+#ling {
+	background: #F2F2F2;
+	margin: 40px;
+	border: solid 1px;
+	padding: 2px 2px 5px;
+}
+
+#lingu {
+	background: #F2F2F2;
+	margin: 5px;
+	border: solid 1px;
+	padding: 2px 2px 5px;
+}
+
+.apr {
+	font-family: Arial;
+	font-size: 4;
+}
+
+.footer {
+	display: inline-flex;
+	flex-wrap: wrap;
+	border: solid 1px;
+}
+
+.cl6 {
+margin: 2px;
+padding-bottom: 5px;
+}
+
+.botaol {
+	background: white;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+/* ------------------------------------------*/
+
+
+/* Página SOP */
+.BodySop {
+ background-image: url(BodySop.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+#listas4 {
+	margin-left: 60px;
+	margin-right: 250px;
+	border: solid 1px;
+	padding: 5px;
+}
+
+.sis {
+	background: #0B2161;
+	margin: 40px;
+	border: solid 1px;
+	padding: 2px 2px 5px;
+}
+
+.cl7 {
+margin: 2px;
+padding-bottom: 5px;
+}
+
+.footers {
+	display: inline-flex;
+	flex-wrap: wrap;
+	border: solid 1px;
+}
+/* ------------------------------------------*/
